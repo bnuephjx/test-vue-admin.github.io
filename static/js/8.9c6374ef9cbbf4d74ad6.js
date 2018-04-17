@@ -1,0 +1,2 @@
+webpackJsonp([8],{P2Xi:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("测试权限的页面，只有超级管理员才能看见")])])}]},s=n("VU/8")({name:"role"},r,!1,null,null,null);t.default=s.exports}});
+//# sourceMappingURL=8.9c6374ef9cbbf4d74ad6.js.map
