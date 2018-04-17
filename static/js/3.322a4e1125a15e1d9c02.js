@@ -1,0 +1,2 @@
+webpackJsonp([3],{P2Xi:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"role"},[t("h1",[this._v("当前是超级管理员，所以看见当前这个页面")]),this._v(" "),t("h1",[this._v("请点击左下的退出，或者清除浏览器Cookie重新登录普通账号来测试权限")])])}]};var s=n("VU/8")({name:"role"},i,!1,function(e){n("hN3O")},null,null);t.default=s.exports},hN3O:function(e,t){}});
+//# sourceMappingURL=3.322a4e1125a15e1d9c02.js.map
