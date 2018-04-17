@@ -1,2 +1,0 @@
-webpackJsonp([7],{"+L+F":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{attrs:{id:"app-footer"}},[e("a",{attrs:{href:"javascript:;"}},[this._v("备案号")])])}]};var a=n("VU/8")({name:"appFooter",data:function(){return{}}},r,!1,function(t){n("dn5C")},null,null);e.default=a.exports},dn5C:function(t,e){}});
-//# sourceMappingURL=7.29fe51e0b5d8d92df4f0.js.map
